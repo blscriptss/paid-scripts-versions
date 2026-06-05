@@ -1,5 +1,8 @@
 {
   "bl_guard": {
     "latest": "1.0.0"
+  },
+  "bl_hud_v1": {
+    "latest": "1.0.1"
   }
 }
