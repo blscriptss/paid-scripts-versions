@@ -4,5 +4,8 @@
   },
   "bl_hud_v1": {
     "latest": "1.0.1"
+  },
+  "bl_notify": {
+    "latest": "1.0.1"
   }
 }
