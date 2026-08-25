@@ -1,4 +1,7 @@
 {
+  "bl_talktonpc": {
+    "latest": "1.0.1"
+  },
   "bl_admin": {
     "latest": "1.0.1"
   }
